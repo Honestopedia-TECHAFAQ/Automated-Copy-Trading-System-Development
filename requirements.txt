@@ -1,0 +1,8 @@
+streamlit
+selenium
+telegram
+python-telegram-bot
+Pillow
+pytesseract
+cryptography
+webdriver-manager
